@@ -1,14 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Aao Golu ji Pai kar do...:*Muaaahhh:*</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Add code <code>src/App.js</code> for SDP.
         </p>
         <a
           className="App-link"
