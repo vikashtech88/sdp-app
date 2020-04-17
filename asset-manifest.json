@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sdp-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sdp-app/static/js/main.b0a320ea.chunk.js",
+    "main.js.map": "/sdp-app/static/js/main.b0a320ea.chunk.js.map",
+    "runtime-main.js": "/sdp-app/static/js/runtime-main.4c392987.js",
+    "runtime-main.js.map": "/sdp-app/static/js/runtime-main.4c392987.js.map",
+    "static/js/2.38b13fc3.chunk.js": "/sdp-app/static/js/2.38b13fc3.chunk.js",
+    "static/js/2.38b13fc3.chunk.js.map": "/sdp-app/static/js/2.38b13fc3.chunk.js.map",
+    "index.html": "/sdp-app/index.html",
+    "precache-manifest.ccab2aa012137541f740161f9ce7c484.js": "/sdp-app/precache-manifest.ccab2aa012137541f740161f9ce7c484.js",
+    "service-worker.js": "/sdp-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sdp-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.38b13fc3.chunk.js.LICENSE.txt": "/sdp-app/static/js/2.38b13fc3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sdp-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c392987.js",
+    "static/js/2.38b13fc3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b0a320ea.chunk.js"
+  ]
+}
