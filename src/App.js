@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Aao Golu ji Pai kar do...:*Muaaahhh:*</p>
+        <p>Aao Golu ji Pai kar do...:*Muaaahhh: Muaaaah*</p>
         <p>
           Add code <code>src/App.js</code> for SDP.
         </p>
