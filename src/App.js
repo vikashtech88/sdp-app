@@ -7,10 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Aao Golu ji Pai kar do...:*Muaaahhh: Muaaaah*</p>
-        <p>
-          Add code <code>src/App.js</code> for SDP.
-        </p>
+        <p>This is a sample page for Smart Data Publication</p>
+        <p>Add code for SDP.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
